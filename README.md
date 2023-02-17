@@ -47,6 +47,7 @@
 ---
 
 Next Steps
+- [ ] Add translation for en
 - [ ] Add unitary tests
 - [ ] Add integration tests
 - [ ] Create a backend app for it
